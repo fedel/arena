@@ -2,9 +2,9 @@
 
 A simple parser implemented in python based on the book: **A Practical Approach to Compiler Construction**.
 
-For run the parser see 'run' script.
+For run the parser see 'run.sh' script.
 
-The parser and construct a simple AST from files like this:
+The parser can construct a simple AST from files like this:
 
 ## Declarations
 ```c
