@@ -1,0 +1,61 @@
+int f(int a, int b) {
+}
+
+
+f(a int, b int) -> int;
+
+f = fn(a int, b int) -> int {}  
+i = int(10)
+p = ptr(i)
+i2 = ptr(int(10))
+
+i2 = ptr(int)(10);
+
+
+var pi = ptr<int>(10);
+
+
+type f = fun(a int, b int) -> int {
+}
+
+type s = struct{
+	a int,
+	b float,
+	s string};
+
+
+var x = s(1, 1.2, "hola");
+
+
+var pi = float(3.1416):
+type add = fun(a int, b int) -> int {}
+type myrec = struct(a int, b int, c string)
+
+var x = add(1, 2);
+var s = myrec{1, 2, 3};
+
+
+
+
+
+
+int x = 10;
+int x = int(10);
+int *xp = &x;
+
+int add(int a, int b) { }
+
+struct myrec {
+	int a;
+	int b;
+}
+
+void myrec::op() {
+}
+
+template <Number T>
+T add(T a, T b) {
+}
+
+
+
