@@ -1,2 +1,2 @@
 # arena
-Experiments, ideas, works, unfinished projects, etc, etc, etc...
+Experiments, ideas, works, unfinished projects, etc, etc, etc.
